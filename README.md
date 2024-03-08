@@ -3,7 +3,7 @@
 - 🌱 I’m currently start learning the introduction of machine learning;
 - 💞️ I’m looking to collaborate on python;
 - 📫 How to reach me: via github ;
-- 😄 Pronouns: ...
+- 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I have zero knowledge of AI.
 
 <!---
